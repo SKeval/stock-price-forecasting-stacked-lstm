@@ -42,6 +42,3 @@ Using Apple (AAPL) historical stock data, the model learns sequential price patt
 - **TensorFlow/Keras** for LSTM modeling  
 - **Jupyter Notebook** for implementation  
 
----
-
-## 📂 Repository Structure
